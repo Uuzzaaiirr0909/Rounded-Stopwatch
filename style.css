@@ -1,0 +1,35 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(189, 132, 8);
+}
+
+.stopwatch {
+    text-align: center;
+    margin-top: auto;
+    color: black;
+    padding-top: 17%;
+}
+
+#time {
+    font-size: 36px;
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    box-shadow: 5px 5px 35px 35px black;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+}
